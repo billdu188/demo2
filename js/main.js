@@ -3,7 +3,7 @@ $(function() {
 	//搜索切换
 	(function() {
 		var aLi = $(".menu li");
-		var oText = $('#search').find('.form.text');
+		var oText = $('#search').find('.form .text');
 		var arrText = ['例如：荷塘鱼作坊烧鱼或樱花日本料理',
 		               '例如：路北区万达广场3楼12号',
 					   '例如：万达影院双人情侣座',
