@@ -121,26 +121,26 @@ body {margin-bottom:30px;}
 #nav .nav_1 { left:11px;} 
 #nav .nav_2 { right:11px;}
 #nav h1 { width:223px; height:62px; margin:0 auto; position:relative; top:10px;}
-#nav .bg1 { background-position:0 0;}
-#nav .bg2 { background-position:-66px 0;}
-#nav .bg3 { background-position:-132px 0;}
-#nav .bg4 { background-position:-198px 0;}
-#nav .bg5 { background-position:-264px 0;}
-#nav .bg6 { background-position:0 -86px;}
-#nav .bg7 { background-position:-66px -86px;}
-#nav .bg8 { background-position:-132px -86px;}
-#nav .bg9 { background-position:-198px -86px;}
-#nav .bg10 { background-position:-264px -86px;}
-#nav .bg1:hover { background-position:0 -86px;}
-#nav .bg2:hover { background-position:-66px -86px;}
-#nav .bg3:hover { background-position:-132px -86px;}
-#nav .bg4:hover { background-position:-198px -86px;}
-#nav .bg5:hover { background-position:-264px -86px;}
-#nav .bg6:hover { background-position:0 0;}
-#nav .bg7:hover { background-position:-66px 0;}
-#nav .bg8:hover { background-position:-132px 0;}
-#nav .bg9:hover { background-position:-198px 0;}
-#nav .bg10:hover { background-position:-264px 0;}
+#nav .bg1 { background-position:-1px 0;}
+#nav .bg2 { background-position:-67px 0;}
+#nav .bg3 { background-position:-133px 0;}
+#nav .bg4 { background-position:-199px 0;}
+#nav .bg5 { background-position:-265px 0;}
+#nav .bg6 { background-position:-1px -86px;}
+#nav .bg7 { background-position:-67px -86px;}
+#nav .bg8 { background-position:-133px -86px;}
+#nav .bg9 { background-position:-199px -86px;}
+#nav .bg10 { background-position:-265px -86px;}
+#nav .bg1:hover { background-position:-1px -86px;}
+#nav .bg2:hover { background-position:-67px -86px;}
+#nav .bg3:hover { background-position:-133px -86px;}
+#nav .bg4:hover { background-position:-199px -86px;}
+#nav .bg5:hover { background-position:-265px -86px;}
+#nav .bg6:hover { background-position:-1px 0;}
+#nav .bg7:hover { background-position:-67px 0;}
+#nav .bg8:hover { background-position:-133px 0;}
+#nav .bg9:hover { background-position:-199px 0;}
+#nav .bg10:hover { background-position:-265px 0;}
 /*搜索栏*/
 #search .bar { width:958px; height:64px; border:1px solid #c40d01; position:absolute; top:16px; left:-1px; background:#e21c01; border-radius:5px; box-shadow:2px 3px 2px #e3e3e3;}
 #search .menu { position:relative; left:226px; top:-25px;}
