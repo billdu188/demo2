@@ -116,7 +116,7 @@ body {margin-bottom:30px;}
 /*导航栏*/
 #nav ul { position:absolute; top:10px;}
 #nav li {  float:left; }
-#nav li a { display:block; width:66px; padding-top:56px; text-align:center; background:url(../iamges/nav.png) no-repeat 10px 0;}
+#nav li a { display:block; width:66px; padding-top:62px; text-indent:23px; background:url(../iamges/nav.png) no-repeat 10px 0; color:#999;}
 #nav li a:hover { text-decoration:underline;}
 #nav .nav_1 { left:11px;} 
 #nav .nav_2 { right:11px;}
@@ -227,6 +227,8 @@ body {margin-bottom:30px;}
 .recommend .list .s2, .recommend .list .s5, .recommend .list .s4, .recommend .list .s6 {background:url(../iamges/reco.gif) no-repeat 0 -20px;}
 .recommend .list a { padding-left:5px; color:#474747; font-size:12px;}
 .recommend .list strong { color:#c1c1c1; font-weight:normal; position:absolute; right:5px; top:0px;}
+/*内容左6*/
+
 /*内容左7*/
 .bbs { padding-bottom:19px;}
 .bbs li { height:30px; line-height:30px; background:#f0f0f0; margin-top:3px; border-radius:3px; position:relative; vertical-align:middle;}
